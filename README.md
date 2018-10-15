@@ -8,3 +8,6 @@
 
 ### 完成 Logistic Regression :yum:
 ![](imgs/作业2.png)
+
+### 完成 one-vs-all 算法以及 FeedPropagation 算法 :yum:
+![](imgs/作业3.png)
