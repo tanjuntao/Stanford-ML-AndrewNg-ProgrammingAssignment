@@ -11,3 +11,6 @@
 
 ### 完成 one-vs-all 算法以及 FeedPropagation 算法 :yum:
 ![](imgs/作业3.png)
+
+### 完成 neural network backpropagation 算法 :yum:
+![](imgs/作业4.png)
