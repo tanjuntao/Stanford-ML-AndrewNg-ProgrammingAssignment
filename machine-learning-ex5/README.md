@@ -68,10 +68,12 @@ axis([0 13 0 100])
 legend('Train', 'Cross Validation')
 ```
 
-最后绘制出来的`learning curve`:
+最后绘制出来的`learning curve`:    
+
 ![](imgs/my_curve.png)
 
-指导书上面的`learning curve`:
+指导书上面的`learning curve`:   
+
 ![](imgs/book_curve.png)
 
 基本上是一样的，说明代码实现正确。
