@@ -14,3 +14,7 @@
 
 ### 完成 neural network backpropagation 算法 :yum:
 ![](imgs/作业4.png)
+
+### 完成 bias-variance :yum:
+![](imgs/作业5.png)
+
