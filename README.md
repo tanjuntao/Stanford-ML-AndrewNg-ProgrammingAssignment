@@ -18,5 +18,8 @@
 ### 完成 bias-variance :yum:
 ![](imgs/作业5.png)
 
+### 完成 K-Means 算法和 PCA 算法 :yum:
+![](imgs/作业7.png)
+
 
 
