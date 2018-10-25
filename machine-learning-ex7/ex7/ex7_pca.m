@@ -164,13 +164,15 @@ K = 100;
 X_rec  = recoverData(Z, U, K);
 
 % Display normalized data
-subplot(1, 2, 1);
+close all;
+figure(1);
 displayData(X_norm(1:100,:));
 title('Original faces');
 axis square;
 
+
 % Display reconstructed data from only k eigenfaces
-subplot(1, 2, 2);
+figure(2);
 displayData(X_rec(1:100,:));
 title('Recovered faces');
 axis square;
