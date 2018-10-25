@@ -39,11 +39,11 @@
 
 从上面的原始图片的像素点中选择1000个，在3D空间中可视化这些像素点。   
 
-![](imgs/3d_view.png)
+![](imgs/3D_view.png)
 
 3D中显示数据点一个问题是：不太容易观察。所以最好是将数据降维到2D中。
 
-![](imgs/2d_view.png)
+![](imgs/2D_view.png)
 
 `ex7.pdf`指导书上是这么描述的：   
 > The PCA projection can be thought of as a rotation that selects
