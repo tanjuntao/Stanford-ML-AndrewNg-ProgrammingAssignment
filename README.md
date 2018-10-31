@@ -18,8 +18,14 @@
 ### 完成 bias-variance :yum:
 ![](imgs/作业5.png)
 
+### SVM待续··· :satisfied:
+
 ### 完成 K-Means 算法和 PCA 算法 :yum:
 ![](imgs/作业7.png)
+
+### 完成 Anomaly Detection & Collaborative Filtering Algorithm :yum:
+
+![](imgs/作业8.png)
 
 
 
